@@ -7,7 +7,7 @@
 
 本app有许多特色功能，欢迎下载体验最新版本，会有意想不到的收获。
 
-本项目只对andriod端实现，没有做ios，如果有需要可以联系我(微信 zjpcomeon 加我备注-github lottery-app)。
+本项目只对andriod端实现，没有做ios。
 
 ### 应用截图
 
@@ -47,11 +47,7 @@
 | ------------------------                                                            | -----------------------                                                             |
 | ![智能指数](https://cdn.icaiwa.com/git/lottery/21.jpg?x-oss-process=image/resize,w_250) | ![大底缩水](https://cdn.icaiwa.com/git/lottery/22.jpg?x-oss-process=image/resize,w_250) |
 
-### 新版app下载体验二维码
 
-##### 手机浏览器扫一扫下载app体验最新功能
-
-![体验二维码](https://cdn.icaiwa.com/git/lottery/14.jpg?x-oss-process=image/resize,w_250)
 
 
 
